@@ -113,15 +113,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6523580866214198842, guid: a6e1d8e6472ce4e4ea70c75a69043330, type: 3}
       propertyPath: m_fontColor.b
-      value: 0.33264506
+      value: 0.40178
       objectReference: {fileID: 0}
     - target: {fileID: 6523580866214198842, guid: a6e1d8e6472ce4e4ea70c75a69043330, type: 3}
       propertyPath: m_fontColor.g
-      value: 0.6037736
+      value: 0.6148707
       objectReference: {fileID: 0}
     - target: {fileID: 6523580866214198842, guid: a6e1d8e6472ce4e4ea70c75a69043330, type: 3}
       propertyPath: m_fontColor.r
-      value: 0.34838495
+      value: 0.7169812
       objectReference: {fileID: 0}
     - target: {fileID: 6523580866214198842, guid: a6e1d8e6472ce4e4ea70c75a69043330, type: 3}
       propertyPath: m_fontSizeMax
@@ -129,7 +129,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6523580866214198842, guid: a6e1d8e6472ce4e4ea70c75a69043330, type: 3}
       propertyPath: m_fontColor32.rgba
-      value: 4283800153
+      value: 4284915127
       objectReference: {fileID: 0}
     - target: {fileID: 6523580866214198842, guid: a6e1d8e6472ce4e4ea70c75a69043330, type: 3}
       propertyPath: m_fontColorGradient.topLeft.b
