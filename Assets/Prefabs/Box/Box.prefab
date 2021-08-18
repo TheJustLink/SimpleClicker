@@ -32,10 +32,10 @@ RectTransform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0, y: 0.2516667}
+  m_AnchorMax: {x: 1, y: 0.7966667}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &3907321415672260780
 MonoBehaviour:
@@ -49,7 +49,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61b9184b3ea729e439d2e98a2d079da1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _clickAnimation: {fileID: 11400000, guid: 8192edb0c5f71224eb099c57ab3d3860, type: 2}
+  _animation: {fileID: 11400000, guid: 8192edb0c5f71224eb099c57ab3d3860, type: 2}
 --- !u!1001 &876242547828484509
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &8280129635158127630
+--- !u!1001 &3786011446257313196
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -11,14 +11,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Image
       objectReference: {fileID: 0}
-    - target: {fileID: 1251179964748470802, guid: 1eb7abe449c27f244ab1cc1ee17c651c, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3973274496007335200, guid: 1eb7abe449c27f244ab1cc1ee17c651c, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 2e94640f039ee204993c179a2e2b1688, type: 3}
+      objectReference: {fileID: 21300000, guid: 38045b5b24846c245b84e8750f45e115, type: 3}
+    - target: {fileID: 3973274496007335200, guid: 1eb7abe449c27f244ab1cc1ee17c651c, type: 3}
+      propertyPath: m_Color.b
+      value: 0.32156864
+      objectReference: {fileID: 0}
+    - target: {fileID: 3973274496007335200, guid: 1eb7abe449c27f244ab1cc1ee17c651c, type: 3}
+      propertyPath: m_Color.g
+      value: 0.6313726
+      objectReference: {fileID: 0}
+    - target: {fileID: 3973274496007335200, guid: 1eb7abe449c27f244ab1cc1ee17c651c, type: 3}
+      propertyPath: m_Color.r
+      value: 0.3137255
+      objectReference: {fileID: 0}
     - target: {fileID: 3973274496007335200, guid: 1eb7abe449c27f244ab1cc1ee17c651c, type: 3}
       propertyPath: m_RaycastTarget
       value: 1
@@ -53,11 +61,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5897049964810478762, guid: 1eb7abe449c27f244ab1cc1ee17c651c, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 256
+      value: 80
       objectReference: {fileID: 0}
     - target: {fileID: 5897049964810478762, guid: 1eb7abe449c27f244ab1cc1ee17c651c, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 256
+      value: 80
       objectReference: {fileID: 0}
     - target: {fileID: 5897049964810478762, guid: 1eb7abe449c27f244ab1cc1ee17c651c, type: 3}
       propertyPath: m_LocalPosition.x

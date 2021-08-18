@@ -6,8 +6,8 @@ using DG.Tweening;
 
 namespace Animations
 {
-    [CreateAssetMenu(menuName = "Game/Animations/RectTransform/Combined")]
-    class CombinedAnimations : RectTransformAnimation
+    [CreateAssetMenu(menuName = "Game/Animations/RectTransform/Sequence")]
+    class SequenceAnimation : RectTransformAnimation
     {
         [SerializeField] private List<RectTransformAnimation> _animations;
 
