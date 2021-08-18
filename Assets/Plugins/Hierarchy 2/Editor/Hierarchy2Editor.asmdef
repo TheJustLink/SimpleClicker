@@ -1,0 +1,18 @@
+{
+    "name": "Hierarchy2Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2cb9c62ac292dce4aad6d1bb5d56d8ef"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
